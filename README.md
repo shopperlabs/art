@@ -18,7 +18,7 @@ The logo, brand and colors was inspired and designed by [Caneco](https://caneco.
 
 ## Maintainers
 
-**Laravel Shopper** is developed and maintained by [Arthur Monney](https://twitter.com/MonneyArthur) & [Jean-Vincent QUILICHINI](https://twitter.com/jvq_txt).
+**Laravel Shopper** is developed and maintained by [Arthur Monney](https://twitter.com/MonneyArthur) 
 
 Shopper **Logo and Branding** is designed and maintained by [Caneco](https://caneco.dev).
 
